@@ -1,5 +1,9 @@
 # Problem Statement
 
+Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics
+
+## About INCOIS
+
 The Indian National Centre for Ocean Information Services (INCOIS), operating under the administrative control of the Ministry of Earth Sciences, provides ocean information and advisory services to support disaster risk reduction and ensure maritime safety for coastal stakeholders. Its early warning services cover hazards such as tsunamis, storm surges, high waves, swell surges, and coastal currents, enabling authorities and communities to make informed decisions during ocean-related emergencies.
 
 ## Background
